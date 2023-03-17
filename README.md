@@ -26,51 +26,13 @@ Iluminación LED Esta iluminación puede presentarse en dos maneras, en un solo 
 Contraste:
 Es la relación entre la intensidad más brillante y la más oscura.
 
-{
-  "version": 1,
-  "author": "Uri Shaked",
-  "editor": "wokwi",
-  "parts": [
-    {
-      "type": "wokwi-pi-pico",
-      "id": "pico",
-      "top": 123.67,
-      "left": 135.97,
-      "rotate": 90,
-      "hide": false,
-      "attrs": { "env": "arduino-community" }
-    },
-    {
-      "type": "wokwi-lcd1602",
-      "id": "lcd",
-      "top": -17.85,
-      "left": 22.03,
-      "rotate": 0,
-      "hide": false,
-      "attrs": {}
-    },
-    {
-      "type": "wokwi-resistor",
-      "id": "r1",
-      "top": 114.8,
-      "left": 226.31,
-      "rotate": 0,
-      "hide": false,
-      "attrs": { "value": "220" }
-    }
-  ],
-  "connections": [
-    [ "pico:GND.1", "lcd:VSS", "black", [ "v-51", "*", "h0", "v18" ] ],
-    [ "pico:GND.1", "lcd:K", "black", [ "v-51", "*", "h0", "v18" ] ],
-    [ "pico:GND.1", "lcd:RW", "black", [ "v-51", "*", "h0", "v18" ] ],
-    [ "pico:VSYS", "lcd:VDD", "red", [ "v16", "h-16" ] ],
-    [ "pico:VSYS", "r1:2", "red", [ "v16", "h0" ] ],
-    [ "r1:1", "lcd:A", "pink", [] ],
-    [ "pico:GP12", "lcd:RS", "blue", [ "v-16", "*", "h0", "v20" ] ],
-    [ "pico:GP11", "lcd:E", "purple", [ "v-20", "*", "h0", "v20" ] ],
-    [ "pico:GP10", "lcd:D4", "green", [ "v-24", "*", "h0", "v20" ] ],
-    [ "pico:GP9", "lcd:D5", "brown", [ "v-28", "*", "h0", "v20" ] ],
-    [ "pico:GP8", "lcd:D6", "gold", [ "v-32", "*", "h0", "v20" ] ],
-    [ "pico:GP7", "lcd:D7", "gray", [ "v-36", "*", "h0", "v20" ] ]
-  ]
-}
+#Simulacion
+![image](https://user-images.githubusercontent.com/89486861/225972615-25318e61-d6a2-4dfd-9426-2c1112016bd9.png)
+
+![image](https://user-images.githubusercontent.com/89486861/225972759-511f3491-3728-470b-bce8-dd5bf9080a23.png)
+
+#Codigo
+![image](https://user-images.githubusercontent.com/89486861/225973061-320a4385-af98-43f6-a68c-5b8f9852d72d.png)
+
+https://wokwi.com/projects/297323005822894602
+
