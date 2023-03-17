@@ -26,4 +26,4 @@ Iluminación LED Esta iluminación puede presentarse en dos maneras, en un solo 
 Contraste:
 Es la relación entre la intensidad más brillante y la más oscura.
 
-https://wokwi.com/projects/297323005822894602
+
