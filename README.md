@@ -26,12 +26,12 @@ Iluminación LED Esta iluminación puede presentarse en dos maneras, en un solo 
 Contraste:
 Es la relación entre la intensidad más brillante y la más oscura.
 
-#Simulacion
+# Simulacion
 ![image](https://user-images.githubusercontent.com/89486861/225972615-25318e61-d6a2-4dfd-9426-2c1112016bd9.png)
 
 ![image](https://user-images.githubusercontent.com/89486861/225972759-511f3491-3728-470b-bce8-dd5bf9080a23.png)
 
-#Codigo
+# Codigo
 ![image](https://user-images.githubusercontent.com/89486861/225973061-320a4385-af98-43f6-a68c-5b8f9852d72d.png)
 
 https://wokwi.com/projects/297323005822894602
