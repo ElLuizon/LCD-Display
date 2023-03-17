@@ -1,6 +1,6 @@
  Homla colemgas 👋
 
-![image]([https://user-images.githubusercontent.com/89486861/130867312-c80f5763-2f2f-43fe-bbce-ca4be6c9b6f6.png](https://electronicavaltierra.com.mx/wp-content/uploads/2018/01/D-C1602L.jpg))
+![image]([https://user-images.githubusercontent.com/89486861/130867312-c80f5763-2f2f-43fe-bbce-ca4be6c9b6f6.png](https://electronicavaltierra.com.mx/wp-content/uploads/2018/01/D-C1602L.jpg)
 
 
 Gusto de visitar el perfil del estudiante  ✨ Luis Pérez ✨.
